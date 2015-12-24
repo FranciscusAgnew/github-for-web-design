@@ -1,6 +1,6 @@
-Github for Web Designers
-========================
+Github for Web Design
+=====================
 
-Hi! Welcome to the companion reference to my Github for Web Design Projects. This reference also serves as the source files for my projects, so you can view the source files from this repo as well.
+Hi! Welcome to the companion reference of James Williamson's <a href="http://www.lynda.com" title="lynda.com">Lynda.com</a> <em>Github for Web Designers</em> course. This reference also serves as the exercise files for the course, so you can download the exercise files from <a href="https://github.com/jameswillweb/github-for-web-designers" title="Companion repo for lynda.com course">this repo</a> as well.
 
 ##[View the companion reference site](-copy link from github-)
